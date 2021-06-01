@@ -7,7 +7,7 @@ public class Palindrome {
 	
 	/*
 	 * 
-	 * Problem Link: https://www.hackerrank.com/challenges/java-datatypes/problem
+	 * Problem Link: https://www.hackerrank.com/challenges/java-string-reverse/problem
 	 * Author: Praveen Kumar Gnanavel
 	 * Powered By: JResearch Academy
 	 * 
